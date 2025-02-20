@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a current student at the EPFL 🇨🇭 in Chemistry 🥼
+
+
+
 <!--
 **Raphtsr/Raphtsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
